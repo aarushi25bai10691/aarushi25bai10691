@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Aarushi Chauhan!
 
-<!--
-**aarushi25bai10691/aarushi25bai10691** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 B.Tech Student at VIT Bhopal University | AI & ML Explorer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ About Me
+
+- 🏛️ **Institution:** VIT Bhopal University
+- 💻 **Branch:** Computer Science and Engineering (AI & ML)
+- 📅 **Expected Graduation:** 2029
+- 🧪 **Learning Goals:** I am currently focusing on **Deep Learning** and my interest lies in **Computer Vision and Neural Networks.**
+
+## 🌐 Connect with Me
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/aarushi-chauhan-a97b78395/
+- 📊 **Kaggle:** https://www.kaggle.com/aarushichauhanaiml
+
+---
+
+*"Information is the resolution of uncertainty." — Claude Shannon*
