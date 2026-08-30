@@ -13,7 +13,7 @@
 
 ## 🌐 Connect with Me
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/aarushi-chauhan-a97b78395/
+- 💼 **LinkedIn:** https://www.linkedin.com/in/aarushi-chauhan-0061243bb/
 - 📊 **Kaggle:** https://www.kaggle.com/aarushichauhanaiml
 
 ---
